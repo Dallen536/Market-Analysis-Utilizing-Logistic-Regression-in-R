@@ -1,4 +1,4 @@
-# MBAX 6330-Market-Intelligence
+# MBAX 6330 Market-Intelligence - Course Group Case Studies
 
 Course group case studies for MBAX 6330- Market Intelligence. 
 
