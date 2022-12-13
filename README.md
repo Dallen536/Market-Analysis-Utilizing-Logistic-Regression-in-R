@@ -1,6 +1,6 @@
 # MBAX 6330-Market-Intelligence
 
-Coursegroup case studies for MBAX 6330- Market Intelligence. 
+Course group case studies for MBAX 6330- Market Intelligence. 
 
 Case 1 - 
 Part A: understand the scope of the research and assess whether its design and execution explained in Case B are appropriate. Critique the study by thinking of sample selection, survey questions, competitive frame, brand strength, and perception as specified in Case A. 
